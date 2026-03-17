@@ -1,4 +1,4 @@
-Built an Artificial Neural Network (ANN) to classify Iris flowers into 3 species
+Built an Artificial Neural Network (ANN) to classify Iris flowers into 3 species  
 Used the Iris dataset (150 samples, 4 features) for training and testing
 Objective: Predict flower species based on input features
 Implemented forward propagation to compute outputs
